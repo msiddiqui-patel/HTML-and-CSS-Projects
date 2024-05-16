@@ -1,0 +1,16 @@
+td, th{
+    text-align: center;
+    width: 5%;
+    background-color: white;
+    border: 1px solid mediumpurple;
+    color: mediumpurple;
+}
+
+td:hover{
+    background-color: mediumpurple;
+    color: white;
+}
+
+td:first-child, th:first-child, tr:first-child th{
+    color: indigo;
+}
