@@ -2,5 +2,6 @@ p {
     color: lavender;
     background: darkgrey;
     font-weight: lighter;
-    text-align: right;
+    text-align: center;
+    text-shadow: 5px 4px mediumpurple;
 }
